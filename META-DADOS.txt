@@ -1,0 +1,16 @@
+ Fontes: 
+-> https://www.gov.br/inep/pt-br/acesso-a-informacao/dados-abertos/microdados/enem
+-> https://www.gov.br/inep/pt-br/acesso-a-informacao/dados-abertos/indicadores-educacionais/nivel-socioeconomico
+
+Órgão produto:
+-> Ministério da Educação(MEC) - Governo Federal.
+
+Data de Obtenção:
+-> 19 de junho de 2024.	
+
+Cobertura:
+-> Todo o Brasil.
+
+Data de Referência:
+-> 2019 e 2021.
+
