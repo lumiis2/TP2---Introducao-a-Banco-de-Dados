@@ -6,7 +6,7 @@
 ---
 
 **Autores:**
-- [Gabriel Vieira](https://github.com/username_gabriel)
+- [Gabriel Vieira](https://github.com/gabrelViera)
 - [Gustavo Mattos Lopes](https://github.com/GustavoMattosLopes)
 - [Heitor Gonçalves Leite](https://github.com/heittpr)
 - [Luisa Lopes Carvalhaes](https://github.com/lumiis2)
